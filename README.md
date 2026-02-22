@@ -1,0 +1,1 @@
+A comprehensive repository documenting my Data Engineering training journey. Includes hands-on projects, daily tasks, and implementations of ETL pipelines, SQL optimization, and data modeling using Python and Big Data tools
