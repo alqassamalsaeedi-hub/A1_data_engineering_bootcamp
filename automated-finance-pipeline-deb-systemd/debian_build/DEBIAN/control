@@ -1,0 +1,8 @@
+Package: qassam-finance-api
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Qassam Saeedi 
+Description: Finance Data Pipeline API and Scraper
+ This package installs a FastAPI service and a scraper for exchange rates
