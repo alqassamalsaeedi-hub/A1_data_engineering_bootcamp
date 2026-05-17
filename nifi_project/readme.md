@@ -17,7 +17,7 @@ The system architecture is built on three main pillars:
 
 🌊 Apache NiFi: The heart of the project, orchestrating the entire flow from ingestion to storage.
 
-![NiFi DataFlow Pipeline](images\dataflow.png)
+![NiFi DataFlow Pipeline](images/dataflow.png)
 
 ## ⚙️ 3. The Data Pipeline (ETL Stages)
 📥 A. Data Ingestion
