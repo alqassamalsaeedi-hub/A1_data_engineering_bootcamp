@@ -1,0 +1,13 @@
+emp_id,name,department,job_title,salary,location,hire_date,performance_rating,years_exp
+1,John Smith,Engineering,Senior Developer,125000,San Francisco,2021-03-15,4.5,8
+2,Sarah Johnson,Sales,Account Executive,85000,New York,2022-01-10,4.2,5
+3,Michael Williams,Engineering,Software Engineer,95000,Austin,2023-06-20,3.8,3
+4,Jennifer Brown,Marketing,Marketing Manager,92000,Chicago,2020-11-05,4.7,7
+
+5,David Jones,Finance,Senior Analyst,105000,Boston,2021-08-12,4.3,6
+6,Lisa Garcia,IT,DevOps Engineer,115000,Seattle,2022-04-18,4.6,4
+7,Robert Martinez,Legal,Legal Counsel145000,San Francisco,2019-09-22,4.8,10, 5
+8,Patricia Wilson,HR,HR Manager,88000,Denver,2020-02-28,4.1,6
+
+9,James Anderson,Sales,Sales Manager,110000,Atlanta,2021-12-01,4.4,7
+10,Mary Thomas,Engineering,Tech Lead,145000,Seattle,2018-07-14,4.9,12
