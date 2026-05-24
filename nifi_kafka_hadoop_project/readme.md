@@ -93,7 +93,7 @@ During system deployment and testing, several real-world distributed systems bot
 ### 🗂️ Distributed Data Lake Storage (Hadoop HDFS Partition Layout)
 *The screenshot below displays the final validated storage output within HDFS. It confirms high-efficiency, multi-tier Hive style partitioning structure based on time metadata parameters (year=YYYY/month=MM/day=DD):*
 
-![Hadoop Distributed File System Partition Audit](images\Hadoop_Distributed_File_System_Partition_Audit.png)
+![Hadoop Distributed File System Partition Audit](images/Hadoop_Distributed_File_System_Partition_Audit.png)
 
 ---
 **💎 Engineered to meet rigorous corporate Big Data ingestion and streaming architecture benchmarks.**
